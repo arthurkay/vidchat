@@ -1,17 +1,18 @@
 {
   "name": "vidchat",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "WebSockets vidchat using WebRTC",
   "main": "Server.js",
   "scripts": {
-    "test": "mocha || true"
+    "test": "mocha || true",
+    "start": "node Server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/arthurkay/vidchat.git"
   },
   "author": "Arthur Kalikiti",
-  "license": "ISC",
+  "license": "MIT",
   "homepage": "https://github.com/arthurkay/vidchat#README.md",
   "dependencies": {
     "dotenv": "^6.2.0",

@@ -54,7 +54,7 @@ Be certain to setup a self signed certificate for development purposes, and use 
 5. Now you are ready to run the app. Execute:
 
     ```bash
-    node Server.js
+    npm start
     ```
 
 ## LICENSE
